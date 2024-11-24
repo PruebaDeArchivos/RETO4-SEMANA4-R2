@@ -57,8 +57,10 @@ h1 {
 	font-weight: bold;
 }
 
-.containerItem>h3{
+.containerItem .itemColor{
 	font-weight: bold;
+	color: white;
 	font-family: 'Lexend Deca', sans-serif;
 	margin: 0;
+	font-size: 15px;
 }
